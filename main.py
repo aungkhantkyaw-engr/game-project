@@ -5,7 +5,7 @@
 
 from guessing import guessing_game
 
-
+from rcs import rock_paper_scissors
 def choose_game():
     """
     Asks the user which game they want to play.
